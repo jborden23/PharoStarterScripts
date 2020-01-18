@@ -1,9 +1,9 @@
 # PharoStarterScripts
 This repo contains scripts useful for running Pharo. Pharo can be downloaded from 
-https://pharo.org/download.
+[https://pharo.org/download].
 
 ## Scripts and Their Uses:
--     makeImage.sh - copy the default image  changes files to a specific name, or start an image with the UI
+* makeImage.sh: Copy the default image and changes files to a specific name, or start an image with the UI
 ## How to Use
 Get the code with:
 ```
