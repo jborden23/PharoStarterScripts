@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 set -u
 set -e
 typeset overwrite=y
