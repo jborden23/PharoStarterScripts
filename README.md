@@ -3,7 +3,7 @@ This repository contains scripts useful for running Pharo. Pharo can be download
 [https://pharo.org/download].
 
 ## Scripts and Their Uses:
-* makeImage.sh: Copy the default image and changes files to a specific name, or start an image with the UI.
+* makeImage.sh: Copy the default image and changes files - This can be replaced with `./pharo Pharo.image save NewName`
 ## How to Use
 You can get the code with:
 ```
