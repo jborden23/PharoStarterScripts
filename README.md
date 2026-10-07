@@ -11,4 +11,4 @@ git clone git@github.com:jborden23/PharoStarterScripts.git
 ```
 Add the directory `PharoStarterScripts` to the path or create a link to the scripts.
 
-More details can be found at [http://myborden.com/pier/john-c-borden/updates/Pharo-starter-scripts]. 
+More details can be found at [https://myborden.com/pier/john-c-borden/updates/Pharo-starter-scripts]. 
